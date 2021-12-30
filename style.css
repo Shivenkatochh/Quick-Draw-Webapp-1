@@ -1,0 +1,35 @@
+body{
+    background-color: greenyellow;
+}
+
+h1{
+    font-family: 'Koh Santepheap', cursive;
+    background-color: cornsilk;
+    color: royalblue;
+}
+
+#show_sketch{
+    float: right;
+}
+#score{
+    font-size: 25px;
+    font-family: 'Koh Santepheap', cursive;
+    margin-left: 5px;
+}
+#timer{
+    float: right;
+    font-size: 25px;
+    font-family: 'Koh Santepheap', cursive;
+    margin-right: 5px;
+}
+
+p{
+    font-size: 25px;
+    font-family: 'Koh Santepheap', cursive;
+    color: black;
+}
+
+#sketch_to_be_drawn{
+    color: red;
+    font-weight: bold;
+}
